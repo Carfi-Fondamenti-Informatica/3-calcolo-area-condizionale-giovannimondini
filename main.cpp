@@ -17,8 +17,6 @@ int main() {
             cout << (a * b);
         default:
             cout << "opzione non valida" << endl;
-         
-         
-   
-   return 0;
+    }
+ return 0;
 }
